@@ -1,3 +1,0 @@
-feature branch new code
-code changes in feature1 branch
-bug fix
