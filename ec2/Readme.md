@@ -19,3 +19,16 @@ The terraform apply command executes the actions proposed in a Terraform plan.
 The terraform destroy command is a convenient way to destroy all remote objects managed by a particular Terraform configuration    
 
       Terrafrom destory
+
+Validate runs checks that verify whether a configuration is syntactically valid 
+
+      terraform validate
+      
+ Show this help output, or the help for a specified subcommand.
+ 
+      Terrafrom plan --help
+      
+      
+Associate existing infrastructure with a Terraform resource
+
+     Terraform import
